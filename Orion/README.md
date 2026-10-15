@@ -7,7 +7,7 @@ Penetration testing reports for retired Hack The Box machines. Each report cover
 
 | Machine | OS | Difficulty | Report |
 |---------|----|-----------|--------|
-| Orion | Linux | Easy | [Report](Orion/orion-report.pdf) |
+| Orion | Linux | Easy | [Report](orion-report.pdf) |
 
 ## Structure
 
