@@ -4,7 +4,7 @@
 **Tester:** dhanush1  
 **Target:** 2million.htb  
 **Difficulty:** Easy 
-**OS:** Linux  
+ **OS:** Linux  
 
 ---
 
