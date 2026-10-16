@@ -285,6 +285,14 @@ registered accounts.
   (e.g., HashiCorp Vault, AWS Secrets Manager)
 - Rotate all credentials that were exposed
 
+### Finding 6: Using Username and Password for SSH login
+
+1. we got shell access as admin@2million.htb
+2. Read User Flag from user.txt
+
+
+# User Flag: *****************************
+
 ---
 
 ### Finding 6: Local Privilege Escalation via CVE-2023-0386
@@ -326,6 +334,8 @@ make all
 # [+] got root!
 # whoami → root
 ```
+
+# Root Flag: ********************
 
 #### Affected Versions
 - Linux kernel 5.11 through 6.1.8 (excluding 5.15.91)
