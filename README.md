@@ -22,17 +22,17 @@ HackTheBox machines, documented for learning and reference purposes.
 | # | Machine | OS | Difficulty | Vulnerabilities | Status |
 |---|---------|-----|------------|-----------------|--------|
 | 1 | [2Million](./machines/2million/report.md) | Linux | Easy | JS Reverse Engineering, Mass Assignment, Command Injection, CVE-2023-0386 | ✅ Completed |
-
+| 2 | [Orion](./machines/orion/report.md) | Linux | Very Easy | Craft CMS Exploitation, Credential Disclosure, Password Cracking, Password Reuse, Telnet Privilege Escalation (CVE-2026-24061) | ✅ Completed |
 ---
 
 ## Statistics
 
 | Stat | Value |
 |------|-------|
-| 🖥️ Machines Completed | 1 |
-| 🐧 Linux Machines | 1 |
+| 🖥️ Machines Completed | 2 |
+| 🐧 Linux Machines | 2 |
 | 🪟 Windows Machines | 0 |
-| ⚡ Easy | 1 |
+| ⚡ Easy | 2 |
 | 🟡 Medium | 0 |
 | 🔴 Hard | 0 |
 
