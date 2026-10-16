@@ -83,7 +83,9 @@ The assessment followed a standard penetration testing methodology:
 ## Finding 1: Nmap scanning To Find Open Ports
 
 PORT   STATE SERVICE VERSION
+
 22/tcp open  ssh     OpenSSH 8.9p1
+
 80/tcp open  http    nginx 1.18.0
 
 
