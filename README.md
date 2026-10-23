@@ -19,9 +19,9 @@ A collection of penetration testing writeups and reports for HackTheBox machines
 |---|---------|-----|------------|-----------------|--------|
 | 1 | [2Million](./machines/2million/report.md) | Linux | Easy | JS Reverse Engineering, Mass Assignment, Command Injection, CVE-2023-0386 | ✅ Completed |
 | 2 | [Orion](./machines/orion/report.md) | Linux | Very Easy | Craft CMS Exploitation, Credential Disclosure, Password Cracking, Password Reuse, Telnet Privilege Escalation (CVE-2026-24061) | ✅ Completed |
-| 3 | [Abducted](./machines/abducted/report.md) | Linux | Not specified | Symbolic-link abuse / file handling (per notes); verify exact chain in report | ✅ Completed |
-| 4 | [Principal](./machines/principal/report.md) | Not specified | Not specified | Not provided in current context | ✅ Completed |
-| 5 | [Management](./machines/management/report.md) | Linux | Not specified | OpenAM RCE (CVE-2026-33439, per reference), GLPI credential recovery, LDAP secret decryption, sudo/`rdiff-backup` privilege escalation (per notes) | ✅ Completed |
+| 3 | [Abducted](./machines/abducted/report.md) | Linux | Medium | Symbolic-link abuse / file handling (per notes); verify exact chain in report | ✅ Completed |
+| 4 | [Principal](./machines/principal/report.md) | Easy | Not specified | Not provided in current context | ✅ Completed |
+| 5 | [Management](./machines/management/report.md) | Linux | Easy | OpenAM RCE (CVE-2026-33439, per reference), GLPI credential recovery, LDAP secret decryption, sudo/`rdiff-backup` privilege escalation (per notes) | ✅ Completed |
 
 ---
 
