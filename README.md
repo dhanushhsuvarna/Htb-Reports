@@ -21,7 +21,7 @@ A collection of penetration testing writeups and reports for HackTheBox machines
 | 2 | [Orion](./machines/orion/report.md) | Linux | Very Easy | Craft CMS Exploitation, Credential Disclosure, Password Cracking, Password Reuse, Telnet Privilege Escalation (CVE-2026-24061) | ✅ Completed |
 | 3 | [Abducted](./machines/abducted/report.md) | Linux | Medium | Samba Print Command Injection (CVE-2026-4480, per write-up), Guest SMB Access, rclone Credential Recovery, Password Reuse, Samba Symlink/Wide-Link Abuse, Writable systemd Drop-in Privilege Escalation | ✅ Completed |
 | 4 | [Principal](./machines/principal/report.md) | Linux | Medium | JWT Authentication Bypass (CVE-2026-29000), Hardcoded Credential Disclosure, Credential Reuse, SSH CA Private-Key Exposure, SSH Certificate-Based Root Access | ✅ Completed |
-| 5 | [Management](./machines/management/report.md) | Linux | Not specified | OpenAM RCE (CVE-2026-33439, per reference), GLPI credential recovery, LDAP secret decryption, sudo/`rdiff-backup` privilege escalation (per notes) | ✅ Completed |
+| 5 | [Management](./machines/management/report.md) | Linux | Easy | OpenAM RCE (CVE-2026-33439, per reference), GLPI credential recovery, LDAP secret decryption, sudo/`rdiff-backup` privilege escalation (per notes) | ✅ Completed |
 
 ---
 
@@ -31,8 +31,8 @@ A collection of penetration testing writeups and reports for HackTheBox machines
 |------|-------|
 | 🖥️ Machines Completed | 5 |
 | 🐧 Linux Machines | 5 |
-| 🪟 Windows Machines | 0 confirmed |
-| ⚡ Easy | 1 |
+| 🪟 Windows Machines | 0 |
+| ⚡ Easy | 3 |
 | 🟡 Medium | 2 |
 | 🔴 Hard | 0 confirmed |
 | 🟣 Very Easy | 1 |\n| ❔ Difficulty not specified | 1 |
